@@ -1,3 +1,3 @@
-import { LoginPage } from "@/components/pages/Login";
+import { TopPage } from '@/components/pages/Top'
 
-export default LoginPage
+export default TopPage
